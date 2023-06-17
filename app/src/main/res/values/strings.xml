@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialektura</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log-in</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="about">This application aims to translate Ilocano words or phrases foreign to non-Ilocano individuals, allowing non-citizen to be familiarized with it and helping them interact with Ilocano individuals, thus eliminating the language barrier. Regardless of their schedule or location, language learners may practice their speaking, listening, reading, and writing abilities with the help of the language learning application.
+</string>
+</resources>
